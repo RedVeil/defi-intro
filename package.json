@@ -1,0 +1,27 @@
+{
+  "name": "defi-intro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.1.1",
+    "@heroicons/react": "^1.0.1",
+    "@metamask/onboarding": "^1.0.0",
+    "@ramp-network/ramp-instant-sdk": "^2.4.2",
+    "@usedapp/core": "^0.3.15",
+    "autoprefixer": "^10.2.5",
+    "next": "10.2.0",
+    "postcss": "^8.2.13",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "recharts": "^2.0.9",
+    "tailwindcss": "^2.1.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
